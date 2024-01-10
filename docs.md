@@ -1,2 +1,3 @@
-This documentation describes how to use the Pavel automated toothbrush.
-Note that this toothbrush is not safe to use for children, adults, pets, and westlife.
+This documentation describes how to use the Kavel automated toothbrush.
+Note that this toothbrush is not safe to use for children, adults, pets, wildlife, and trees.
+
